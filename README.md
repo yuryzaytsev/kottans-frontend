@@ -7,10 +7,10 @@ Notes and course progress.
 I always use Git in my daily work. But these courses refreshed my knowledge and improved my skills in some points. 
 
 ## Linux CLI, and HTTP
-- [Linux Survival (1 module)](task_linux_cli/screenshot_1.png)
-- [Linux Survival (2 module)](task_linux_cli/screenshot_2.png)
-- [Linux Survival (3 module)](task_linux_cli/screenshot_3.png)
-- [Linux Survival (4 module)](task_linux_cli/screenshot_4.png)
+- [Linux Survival (1 module)](task_linux_cli/screenshot_1.png?raw=true)
+- [Linux Survival (2 module)](task_linux_cli/screenshot_2.png?raw=true)
+- [Linux Survival (3 module)](task_linux_cli/screenshot_3.png?raw=true)
+- [Linux Survival (4 module)](task_linux_cli/screenshot_4.png?raw=true)
 
 ### Linux Survival
 I have experience working with Linux — used Fedora as a second OS. The first module was a bit easy for me. Other modules were more interesting. I memorized the file security principle. Understood how useful can be `cat`, `grep` commands and other while using pipe output. 
