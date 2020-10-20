@@ -25,7 +25,8 @@ I always use Git in my daily work. But these courses refreshed my knowledge and 
 
 ## Git Collaboration
 - [GitHub & Collaboration](task_git_collaboration/screenshot_1.png?raw=true)
-- [Learn Git Branching](task_git_collaboration/screenshot_2.png?raw=true)
+- [Learn Git Branching (Main: Ramping Up, Moving Work Around)](task_git_collaboration/screenshot_2.png?raw=true)
+- [Learn Git Branching (Remote: To Origin and Beyond)](task_git_collaboration/screenshot_3.png?raw=true)
 
 #### Reflections: 
 - **GitHub & Collaboration**
