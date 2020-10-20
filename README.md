@@ -34,4 +34,4 @@ I always use Git in my daily work. But these courses refreshed my knowledge and 
   I refreshed my existing knowledge about Git and learned `git rebase` command. 
 - **Learn Git Branching**
   
-  Cool interactive exercises for practicing Git. 
+  Cool interactive exercises for practicing Git. I got a lot of knowledge about Git remotes commands.
