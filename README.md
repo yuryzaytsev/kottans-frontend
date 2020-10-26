@@ -30,10 +30,10 @@ I always use Git in my daily work. But these courses refreshed my knowledge and 
 - [Learn Git Branching (Main: Ramping Up, Moving Work Around)](task_git_collaboration/screenshot_2.png?raw=true)
 - [Learn Git Branching (Remote: To Origin and Beyond)](task_git_collaboration/screenshot_3.png?raw=true)
 
-#### Reflections: 
+#### Reflections:
 
 - **GitHub & Collaboration**: I refreshed my existing knowledge about Git and learned `git rebase` command. 
-- **Learn Git Branching**: cool interactive exercises for practicing Git. I got a lot of knowledge about Git remotes commands.
+- **Learn Git Branching**: Cool interactive exercises for practicing Git. I had a lot of knowledge about Git remotes commands.
 
 ## Intro to HTML and CSS
 
@@ -43,6 +43,25 @@ I always use Git in my daily work. But these courses refreshed my knowledge and 
 - [Codecademy - Learn HTML](task_html_css_intro/screenshot_2.png?raw=true)
 - [Codecademy - Learn CSS](task_html_css_intro/screenshot_3.png?raw=true)
 
-#### Reflections: 
+#### Reflections:
 
 I have a solid experience with HTML and CSS, so I didn't find anything new for me, but this lessons refreshed my knowledge about CSS Grid. 
+
+## Responsive Web Design
+
+#### Notes:
+
+- Instead of reporting the widht in the number of physical hardware pixels, the browser reports the width in the number of dips, or device independet pixels (DPR). 
+- Buttons should be at least 48 by 48 pixels for min-height.
+- In the most cases the best way to show responsive tables is scrolling content.  
+
+#### Screenshots:
+
+- [Udacity - Responsive Web Design Fundamentals](task_responsive_web_design/screenshot_1.png?raw=true)
+- [Flexbox Froggy](task_responsive_web_design/screenshot_2.png?raw=true)
+
+#### Reflections:
+
+- **Udacity - Responsive Web Design Fundamentals**: I refreshed my knowledge about responsive tables.
+
+- **Flexbox Froggy**: I had a lot of fun playing this game and practice my Flexbox skill.
