@@ -64,4 +64,4 @@ I have a solid experience with HTML and CSS, so I didn't find anything new for m
 
 - **Udacity - Responsive Web Design Fundamentals**: I refreshed my knowledge about responsive tables.
 
-- **Flexbox Froggy**: I had a lot of fun playing this game and practice my Flexbox skill.
+- **Flexbox Froggy**: I had a lot of fun playing this game and practicing my Flexbox skill.
