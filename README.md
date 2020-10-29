@@ -65,3 +65,13 @@ I have a solid experience with HTML and CSS, so I didn't find anything new for m
 - **Udacity - Responsive Web Design Fundamentals**: I refreshed my knowledge about responsive tables.
 
 - **Flexbox Froggy**: I had a lot of fun playing this game and practicing my Flexbox skill.
+
+## HTML & CSS Practice
+
+#### Reflections:
+
+I Used Gulp, Sass, BEM naming convention.
+
+#### [Demo](https://yuryzaytsev.github.io/hooli-style-popup-example)
+
+#### [Code Base](https://github.com/yuryzaytsev/hooli-style-popup-example)
